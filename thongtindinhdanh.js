@@ -4,11 +4,12 @@ const cccd = "CCCD"
 const sdt = "SDT"
 const gioi_tinh = "GIOI TINH"
 const noi_sinh = "NOI SINH"
+const ngay_sinh = "NGAY SINH"
 const email = "EMAIL"
 const que_quan = "QUE QUAN"
 const dia_chi = "DIA CHI"
 
-const values = [null, ho_va_ten, cmt, null, cccd, null, sdt, gioi_tinh, noi_sinh, email, que_quan, dia_chi]
+const values = [null, ho_va_ten, cmt, null, cccd, null, ngay_sinh, sdt, gioi_tinh, noi_sinh, email, que_quan, dia_chi]
 
 const usernames = document.getElementsByClassName("username")
 
